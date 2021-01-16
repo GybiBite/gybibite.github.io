@@ -1,6 +1,3 @@
-# FreePo
-#### Freedom Repository: Censorship Free, For the People
-
 Index:
  - [Site info](/Info.html)
  - [Video repository](/Videos.html)
