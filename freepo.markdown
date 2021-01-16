@@ -1,6 +1,6 @@
 layout: page
 title: "FreePo"
-permalink: /freepo
+permalink: /
 
 # FreePo
 #### Freedom Repository: Censorship Free, For the People
