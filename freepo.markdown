@@ -1,8 +1,6 @@
----
 layout: page
 title: "FreePo"
 permalink: /freepo
----
 
 # FreePo
 #### Freedom Repository: Censorship Free, For the People
