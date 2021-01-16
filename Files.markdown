@@ -8,10 +8,10 @@ Index:
  - [About Us](/Contact.markdown)
 
  	<body>
-		<div id="communityvid">
-			<h3>Community Videos</h3>
-			<label for="vidsort">Sort Community Videos</label>
-			<select name="vidsort" id="vidsort" size="0">
+		<div id="communityfile">
+			<h3>Community Files</h3>
+			<label for="filesort">Sort Community Files</label>
+			<select name="filesort" id="filesort" size="0">
 				<option value="24hour">Popular 24 Hours</option>
 				<option value="alltime">Popular All Time</option>
 				<option value="new">Newest</option>
@@ -20,10 +20,10 @@ Index:
 				<option value="dislike">Most Disliked</option>
 			</select>
 		</div>
-		<div id="followingvid">
-			<h3>Following Videos</h3>
-			<label id="vidsortfollowing">Sort Following Videos</label>
-			<select name="vidsortfollowing" id="vidsortfollowing" size="0">
+		<div id="followingfile">
+			<h3>Following Files</h3>
+			<label id="filesortfollowing">Sort Following Files</label>
+			<select name="filesortfollowing" id="filesortfollowing" size="0">
 				<option value="24hour">Popular 24 Hours</option>
 				<option value="alltime">Popular All Time</option>
 				<option value="new">Newest</option>
@@ -32,10 +32,10 @@ Index:
 				<option value="dislike">Most Disliked</option>
 			</select>
 		</div>
-		<div id="followervid">
-			<h3>Followers Videos</h3>
-			<label id="vidsortfollower">Sort Followers Videos</label>
-			<select name="vidsortfollower" id="vidsortfollower" size="0">
+		<div id="followerfile">
+			<h3>Followers Files</h3>
+			<label id="filesortfollower">Sort Followers Files</label>
+			<select name="filesortfollower" id="filesortfollower" size="0">
 				<option value="24hour">Popular 24 Hours</option>
 				<option value="alltime">Popular All Time</option>
 				<option value="new">Newest</option>
