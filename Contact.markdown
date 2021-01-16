@@ -5,7 +5,6 @@ Index:
  - [Document sharing](/Documents.markdown)
  - [Misc. Files](/Files.markdown)
  - [Forums](/Forums.markdown)
- - [About Us](/Contact.markdown)
 
 ## Who is NoobyBite?
 NoobyBite is a small team of 2 programmers containing myself "Nooby" and my associate "GybiBite (a.k.a. DanBite)", we decided to form this group around a year ago while Nooby was still in college to create joint programs and websites. Gybi specializes in Java and <!--add more words-->. Nooby focuses on HTML, c++, and python.
