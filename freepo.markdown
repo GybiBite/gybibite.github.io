@@ -1,11 +1,11 @@
 Index:
- - [Site info](/Info.html)
- - [Video repository](/Videos.html)
- - [Image Board](/Pictures.html)
- - [Document sharing](/Documents.html)
- - [Misc. Files](/Files.html)
- - [Forums](/Forums.html)
- - [About Us](/Contact.html)
+ - [Site info](/freepo.markdown)
+ - [Video repository](/Videos.markdown)
+ - [Image Board](/Pictures.markdown)
+ - [Document sharing](/Documents.markdown)
+ - [Misc. Files](/Files.markdown)
+ - [Forums](/Forums.markdown)
+ - [About Us](/Contact.markdown)
 
 ## Welcome to FreePo!
 We have designed this website for the sole purpose of non-censorship. This whole cancel-culture revolution is a joke and we strive to end it. As Twitter, Facebook, and YouTube continue to suffer from their hubris, we strive to bring solace to the users who were abandoned by their own communities that they called home and were cast out for their "actions" by speaking out for their own beliefs. Here we do not censor our users or spread our own agenda, we embrace the fact that each individual is a unique member of society that has their own personal beliefs that they strive to service. We at NoobyBite welcome all to FreePo, the freedom repository designed for non-censorship and anonymity, you can choose to make your self known or proceed as a ghost with our encryption methods that we have in place that ensure your IP won't be traced (granted you don't click fishy links). The only thing we DO NOT allow on this site is any illegal forms of media, we all love non-censorship but this is one of the fastest way to lose that right.
