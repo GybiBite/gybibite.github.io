@@ -1,7 +1,3 @@
-layout: page
-title: "FreePo"
-permalink: /
-
 # FreePo
 #### Freedom Repository: Censorship Free, For the People
 
