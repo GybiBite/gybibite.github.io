@@ -11,10 +11,10 @@ NoobyBite is a small team of 2 programmers containing myself "Nooby" and my asso
 
 We strive to design and code our programs to the best of our abilities, and we realize we cant think of everything. Thats why we ask you, the users and the community, to reach out to give us suggestions and changes you wish to see in the future.
 
-<center>Created by NoobyBite on January 13, 2021
+<center>Created by NoobyBite on January 13, 2021</center>
 
-Contact at:
+<center>Contact at:</center>
 
-Nooby's email: nooby117@gmail.com
+<center>Nooby's email: nooby117@gmail.com</center>
 
-Gybibite's email: ddemarco03@outlook.com</center>
+<center>Gybibite's email: ddemarco03@outlook.com</center>
