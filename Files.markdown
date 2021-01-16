@@ -7,7 +7,7 @@ Index:
  - [Forums](/Forums.markdown)
  - [About Us](/Contact.markdown)
 
- 	<body>
+<body>
 		<div id="communityfile">
 			<h3>Community Files</h3>
 			<label for="filesort">Sort Community Files</label>
@@ -44,4 +44,4 @@ Index:
 				<option value="dislike">Most Disliked</option>
 			</select>
 		</div>
-	</body>
+</body>

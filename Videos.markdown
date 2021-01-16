@@ -7,7 +7,7 @@ Index:
  - [Forums](/Forums.markdown)
  - [About Us](/Contact.markdown)
 
- 	<body>
+<body>
 		<div id="communityvid">
 			<h3>Community Videos</h3>
 			<label for="vidsort">Sort Community Videos</label>
@@ -44,4 +44,4 @@ Index:
 				<option value="dislike">Most Disliked</option>
 			</select>
 		</div>
-	</body>
+</body>
